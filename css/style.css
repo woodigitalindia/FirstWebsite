@@ -6,7 +6,7 @@ body {
 .agency-logo {
   display: block;
   margin: 10 px auto 0; /* Adjust the margins as needed */
-  max-width: 240px; /* Adjust this value based on your logo size */
+  max-width: 230px; /* Adjust this value based on your logo size */
   height: auto;
 }
 
