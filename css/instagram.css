@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.instagram-module {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card h3 {
+    margin: 0 0 10px;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.card p {
+    margin: 0 0 10px;
+    color: #666;
+}
+
+.price {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #000;
+}
