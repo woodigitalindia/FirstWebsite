@@ -3,6 +3,14 @@ body {
   color: #000000;
   background-color: #ffffff;
 }
+.agency-logo {
+  display: block;
+  margin: 10px auto 0; /* Adjust the margins as needed */
+  max-width: 150px; /* Adjust this value based on your logo size */
+  height: auto;
+}
+
+
 
 .layout_padding {
   padding: 75px 0;
