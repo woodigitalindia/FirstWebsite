@@ -5,8 +5,8 @@ body {
 }
 .agency-logo {
   display: block;
-  margin: 10px auto 0; /* Adjust the margins as needed */
-  max-width: 150px; /* Adjust this value based on your logo size */
+  margin: 10 px auto 0; /* Adjust the margins as needed */
+  max-width: 350px; /* Adjust this value based on your logo size */
   height: auto;
 }
 
@@ -183,7 +183,8 @@ a:focus {
   padding: 15px 0;
 }
 
-.custom_nav-container .navbar-toggler {
+.custom_nav-container .navbar-t
+oggler {
   outline: none;
 }
 
